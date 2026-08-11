@@ -447,7 +447,7 @@
         "test": "npm run test-compile && npm run just-test"
     },
     "dependencies": {
-        "vscode-ext-selection": "1.0.1"
+        "vscode-ext-selection": "1.1.0"
     },
     "devDependencies": {
         "@types/node": "^18.17.0",
